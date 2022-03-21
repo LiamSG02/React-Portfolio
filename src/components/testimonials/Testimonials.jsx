@@ -1,6 +1,6 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../images/avatar1.jpg'
+import AVTR1 from '../../images/Avatar5.jpg'
 import AVTR2 from '../../images/avatar2.jpg'
 import AVTR3 from '../../images/avatar3.jpg'
 import AVTR4 from '../../images/avatar4.jpg'
@@ -19,7 +19,7 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Tiana Snow',
+    name: 'Wassim El haddaoui',
     review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque accusamus unde, reprehenderit laborum sunt ducimus enim earum voluptatibus veniam dolor pariatur dolorem, dicta natus quam eum, laudantium quas a maiores.'
   }, 
   {
